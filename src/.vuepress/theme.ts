@@ -27,6 +27,8 @@ export default hopeTheme({
   footer: "Joey Zhao",
   displayFooter: true,
 
+  contributors: false,
+
   // 加密配置
   encrypt: {
     config: {
